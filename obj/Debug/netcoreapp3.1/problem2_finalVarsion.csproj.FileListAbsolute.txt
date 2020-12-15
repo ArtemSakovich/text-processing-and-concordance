@@ -1,0 +1,13 @@
+C:\Users\Artem\source\repos\problem2_finalVarsion\bin\Debug\netcoreapp3.1\problem2_finalVarsion.exe
+C:\Users\Artem\source\repos\problem2_finalVarsion\bin\Debug\netcoreapp3.1\problem2_finalVarsion.deps.json
+C:\Users\Artem\source\repos\problem2_finalVarsion\bin\Debug\netcoreapp3.1\problem2_finalVarsion.runtimeconfig.json
+C:\Users\Artem\source\repos\problem2_finalVarsion\bin\Debug\netcoreapp3.1\problem2_finalVarsion.runtimeconfig.dev.json
+C:\Users\Artem\source\repos\problem2_finalVarsion\bin\Debug\netcoreapp3.1\problem2_finalVarsion.dll
+C:\Users\Artem\source\repos\problem2_finalVarsion\bin\Debug\netcoreapp3.1\problem2_finalVarsion.pdb
+C:\Users\Artem\source\repos\problem2_finalVarsion\obj\Debug\netcoreapp3.1\problem2_finalVarsion.csprojAssemblyReference.cache
+C:\Users\Artem\source\repos\problem2_finalVarsion\obj\Debug\netcoreapp3.1\problem2_finalVarsion.AssemblyInfoInputs.cache
+C:\Users\Artem\source\repos\problem2_finalVarsion\obj\Debug\netcoreapp3.1\problem2_finalVarsion.AssemblyInfo.cs
+C:\Users\Artem\source\repos\problem2_finalVarsion\obj\Debug\netcoreapp3.1\problem2_finalVarsion.csproj.CoreCompileInputs.cache
+C:\Users\Artem\source\repos\problem2_finalVarsion\obj\Debug\netcoreapp3.1\problem2_finalVarsion.dll
+C:\Users\Artem\source\repos\problem2_finalVarsion\obj\Debug\netcoreapp3.1\problem2_finalVarsion.pdb
+C:\Users\Artem\source\repos\problem2_finalVarsion\obj\Debug\netcoreapp3.1\problem2_finalVarsion.genruntimeconfig.cache
